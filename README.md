@@ -7,3 +7,5 @@ This calculator only performs simple calculations
 Implemented: list, match, for
 
 Thank you for viewing!
+
+<img src="Images/Calculator%20View.png" width="300">
