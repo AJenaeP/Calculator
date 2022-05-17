@@ -9,3 +9,6 @@ Implemented: list, match, for
 Thank you for viewing!
 
 <img src="Images/Python%20Calc.png" width="300">
+
+
+Images/PyCalc.gif
