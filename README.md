@@ -8,4 +8,4 @@ Implemented: list, match, for
 
 Thank you for viewing!
 
-<img src="Images/Calculator%20View.png" width="300">
+<img src="Images/Python%20Calc.png" width="300">
